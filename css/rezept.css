@@ -1,0 +1,103 @@
+body {
+    font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
+    margin: 50px;
+}
+table, th, td
+{
+    border: 1px solid black;
+
+}
+
+td {
+    text-align: center;
+
+    padding-right: 10px;
+    padding-left: 10px;
+
+}
+
+
+th {
+    font-weight: bold;
+
+    padding-right: 10px;
+    padding-left: 10px;
+
+}
+
+nav {
+    margin: 20px 0px 10px 20px;
+
+}
+
+main {
+    margin: 40px 0px 10px 20px;
+}
+
+a {
+    text-decoration: none;
+    margin-top: 10px;
+    padding: 5px;
+    background-color: #7F007F;
+    color: white;
+}
+
+textarea {
+    width: auto;
+    height: 150px;
+}
+
+/* class */
+.alink
+{
+    float: left;
+    padding: 7px;
+}
+.table {
+    display: table;
+}
+
+.tr {
+    display: table-row;
+
+}
+
+.th {
+    display: table-cell;
+    vertical-align: top;
+    padding-right: 20px;
+    font-weight: bold;
+    padding-bottom: 20px;
+}
+
+.td {
+    display: table-cell;
+    padding-bottom: 10px;
+    size: 100px!important;
+}
+
+.textonly
+{
+    width: 250px;
+}
+
+.menge {
+    width: 45px;
+}
+
+.checkText
+{
+    font-weight: bold;
+    padding-top: 10px;
+}
+
+.boldText
+{
+    font-weight: bold;
+    padding-bottom: 10px;
+}
+.leftPadding
+{
+    padding-left: 40px;
+}
+
